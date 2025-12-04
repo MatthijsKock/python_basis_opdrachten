@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-my_tuple = (1,6,8,9,7,8,)
+my_list = "wat een weertje"
 
-print(my_tuple)
+print(my_list)
