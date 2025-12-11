@@ -1,9 +1,9 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Matthijs Kock
+# Groep: IT-Flex
 
 # Hier komt je code...
 
-my_list = "wat een weertje"
+my_list = [13, "wat een weertje", 12.5, 8]
 
 print(my_list)
